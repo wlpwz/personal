@@ -1,0 +1,22 @@
+Version 1.0.0.8
+    bug fix
+    1. add unittest for ing_state_check
+    2. fix bug:diff ss on same slice
+Version 1.0.0.7
+    bug fix
+    slice creating state is creating(20%) not creating. so deep a hole !!!
+Version 1.0.0.6
+    add unit check at fist slice ing state
+Version 1.0.0.3
+unified_feed
+    add unified_feed tab(submit task, add attribute, check feed status, check feed result, etc)
+Version 1.0.0.2
+Function:
+	auto-adjust fifo_dests to writeproxies 
+	be able to specify discontinuous slices to import data
+
+Version 1.0.0.1
+Function:
+	display Cli infomation in web page
+	balance job's slice_number while importing slices' data
+	Cli.py add "-s" option
